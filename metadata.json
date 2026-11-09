@@ -1,0 +1,6 @@
+{
+  "name": "Bangun Ruang Sisi Lengkung - Mister Jo",
+  "description": "Aplikasi materi ajar matematika interaktif materi bangun ruang sisi lengkung (tabung, bola, kerucut) bersama Mister Jo untuk Interactive Flat Panel dan komputer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
